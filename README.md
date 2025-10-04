@@ -7,7 +7,7 @@ This has been tested on both ARM64 Mac and AMD64 Mac laptops.
 AMD is much slower as expected due to emulation.
 
 ```bash
-git clone https://github.com/jonnymacs/rpi-image-gen-example
+git clone git@github.com:DariuszOstolski/rpi-image-minimal.git
 ```
 
 Build the rpi img
